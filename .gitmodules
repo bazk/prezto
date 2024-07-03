@@ -29,3 +29,6 @@
 	path = modules/prompt/external/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
 	shallow = true
+[submodule "dircolors/solarized"]
+	path = dircolors/solarized
+	url = https://github.com/seebi/dircolors-solarized.git
